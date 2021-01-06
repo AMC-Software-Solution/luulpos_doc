@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Luulpos Backend": ["doc","doc1"],
+    "Luulpos Application": ["doc2"]
+   },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
